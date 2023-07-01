@@ -1438,4 +1438,13 @@ body{
 .header .trix1{
     width: 150px;
   }
+
+    .imglogo{
+    max-width: 1068px;
+    margin: auto;
+    margin-top: 10%;
+    width: 100%;
+    width: 25%;
+    margin-top: 10%;
+  }
 }
