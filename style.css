@@ -111,7 +111,7 @@ button {
   cursor: pointer;
 }
 
-.header .trix1{
+.logo .trix1{
     width: 150px;
   }
 
@@ -1436,14 +1436,14 @@ body{
   }
 
 @media (min-width: 322px){
-.header .trix1{
+.logo .trix1{
     width: 150px;
   }
 
     .imglogo{
     max-width: 1068px;
     margin:  auto;
-    margin-top: 100%;
+    margin-top: 300%;
     width: 100%;
     width: 45%;
     margin-top: 10%;
