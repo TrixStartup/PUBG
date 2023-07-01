@@ -1441,8 +1441,8 @@ body{
 
     .imglogo{
     max-width: 1068px;
-    margin: auto;
-    margin-top: 70%;
+    margin: 70% auto;
+    margin-top: ;
     width: 100%;
     width: 45%;
     margin-top: 10%;
