@@ -115,6 +115,8 @@ button {
     width: 150px;
   }
 
+.container { padding-inline: 15px; }
+
 input {
   font: inherit;
   width: 100%;
