@@ -1403,11 +1403,6 @@ body{
       margin-top: 70%;
       width: 50%;
     }
-
-    .logo .trix1{
-        width: 55px;
-    }
-      
   }
   
   @media (max-width: 359px){
@@ -1438,3 +1433,9 @@ body{
         height: 350px;
     }
   }
+
+@media (min-width: 322px){
+.logo .trix1{
+    width: 150px;
+  }
+}
