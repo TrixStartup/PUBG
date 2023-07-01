@@ -1397,6 +1397,7 @@ body{
       width: 70%;
     }
   }
+
   @media (max-width: 310px){
     .imglogo{
       margin-top: 70%;
@@ -1404,7 +1405,7 @@ body{
     }
 
     .logo .trix1{
-        width: 100px;
+        width: 55px;
     }
       
   }
