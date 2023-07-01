@@ -111,6 +111,10 @@ button {
   cursor: pointer;
 }
 
+.header .trix1{
+    width: 200px;
+  }
+
 input {
   font: inherit;
   width: 100%;
@@ -1398,6 +1402,11 @@ body{
       margin-top: 70%;
       width: 50%;
     }
+
+    .logo .trix1{
+        width: 150px;
+    }
+      
   }
   
   @media (max-width: 359px){
