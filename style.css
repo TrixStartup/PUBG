@@ -115,8 +115,6 @@ button {
     width: 150px;
   }
 
-.container { padding-inline: 15px; }
-
 input {
   font: inherit;
   width: 100%;
@@ -378,7 +376,6 @@ body{
 .imglogo{
     max-width: 1068px;
     margin: auto;
-    margin-top: 25%;
     width: 100%;
     width: 25%;
     margin-top: 10%;
@@ -1440,13 +1437,5 @@ body{
 @media (min-width: 322px){
 .logo .trix1{
     width: 150px;
-  }
-
-    .imglogo{
-    max-width: 1068px;
-    margin-top: 100%;
-    width: 325%;
-    width: 45%;
-    margin-top: 10%;
   }
 }
